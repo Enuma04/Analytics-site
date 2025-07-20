@@ -1,0 +1,44 @@
+.custom-navbar {
+  background-color: #272953 !important;
+  border-bottom: 1px solid #272953;
+  padding: 0.75rem 1.25rem;
+}
+
+.custom-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #ffffff !important;
+  transition: text-shadow 0.2s ease-in-out;
+}
+
+.custom-brand:hover {
+  text-shadow: 0 0 6px #4dabf7;
+}
+
+.custom-link {
+  color: #dddddd !important;
+  font-weight: 500;
+  margin-right: 1rem;
+  transition: color 0.2s ease-in-out, text-shadow 0.2s;
+}
+
+.custom-link:hover {
+  color: #ffffff !important;
+  text-shadow: 0 0 4px #82ca9d;
+}
+
+.lang-btn {
+  border-color: #ffffff;
+  color: #ffffff;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.lang-btn:hover {
+  background-color: #3a86ff;
+  border-color: #3a86ff;
+  color: #ffffff;
+}
+
+.custom-toggle {
+  border-color: #cccccc;
+}
